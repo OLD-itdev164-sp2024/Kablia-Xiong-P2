@@ -13,7 +13,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `The daily adventures of Kablia`,
-    description: `A daily blog of what goes on in my life. The struggles, the laughs, the tears...`,
+    description: `A daily blog of what goes on in my life. The laughs, the tears, the damn struggles...`,
     author: `Kablia Xiong.`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
     contact: {
